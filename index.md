@@ -4,12 +4,37 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+# Kaiyu's Blog
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+## About me 
+
+
+**This is my freeform drawing!**
+
+-I love playing soccer             
+-I was born in California                                          
+-I am Japanese and have family there                                           
+-This is my family and I love them very much
+
+
+![]({{site.baseurl}}/images/images/IMG_4075.jpg)
+
+
+**I love taking photos. This is my favorite photo.**
+
+
+![]({{site.baseurl}}/images/images/IMG_1525.jpg)
+
+
+
+
+### **Why did I take this class?**
+#### I took this class because I have an interest in programming and want to have a career in it. I have done coding and cyberpatriot before and it was an enjoyable experience. I want to learn about the basics of computer science so am looking forward to taking this class. 
+ 
+  
+   
+
+### **What was the biggest issue I had?**
+#### The biggest issue I had was when my ruby version wouldn't update. Even though I had downloaded the most recent version, 3.1.4, the ruby version would be stuck at 2.6.10. I was stuck on the issue for a whole day by asking my classmates and googling the issue. Finally, I decided to ask the teacher about it and found out that my computer was in bash because it was old. I changed it to the Z shell (zsh) by the command "chsh -s /bin/bash" and then typed "zsh". Ruby finally successfully updated to 3.1.4 and I moved onto the next step. 
