@@ -5,7 +5,7 @@ layout: post
 title: Soccer Table Ranking
 description: Best Soccer Teams currently
 type: hacks
-courses: { compsci: {week: 2} }
+courses: { csp: {week: 2} }
 ---
 %%html
 

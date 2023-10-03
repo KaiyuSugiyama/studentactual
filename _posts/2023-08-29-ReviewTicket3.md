@@ -5,7 +5,7 @@ layout: post
 title: Review Ticket 3
 description: This is my plan for the start of csp.
 type: tangibles
-courses: { compsci: {week: 3} }
+courses: { csp: {week: 3} }
 ---
 
 
