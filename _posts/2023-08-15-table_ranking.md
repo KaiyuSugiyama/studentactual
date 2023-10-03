@@ -62,4 +62,4 @@ courses: { compsci: {week: 2} }
 
 
 ## The Benefits of Having a Markdown Table
-Having a markdown table makes it an easy-to-read, 
+Having a markdown table makes it an easy-to-read, and is more interactive as you can show numerous entries at one time. 
