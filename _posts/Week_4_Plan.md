@@ -2,8 +2,8 @@
 toc: false
 comments: true
 layout: post
-title: Week 6 Plan
-description: PBL Unit 1 / Week 6 plan
+title: Week 4 Plan
+description: PBL Unit 1 / Week 4 plan
 type: plans
 courses: { csp: {week: 6} }
 permalink: /plans/week7
