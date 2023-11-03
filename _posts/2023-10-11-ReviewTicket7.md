@@ -11,8 +11,11 @@ courses: { csp: {week: 7} }
 
 ### Review Ticket Unit 1 / Week 7
 ## Tasks completed
-Altered the snake game by changing the background and making the snake faster. 
+-Finished creating players 
+
+-Finished adding the stats for all the players
+
 
 ## Challenges faced
-Ruby version wouldn't update
-Couldn't clone the student repository
+Teammate had trouble to connect frontend with backend
+I had trouble commiting changes. Couldn't get any commits for a long period of time so I worked with Patrick.

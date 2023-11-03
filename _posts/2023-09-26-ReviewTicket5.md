@@ -11,8 +11,9 @@ courses: { csp: {week: 5} }
 
 ### Review Ticket Unit 1 / Week 5
 ## Tasks completed
-Altered the snake game by changing the background and making the snake faster. 
+Finished recording video to show Mr Lopez
+Start working on team test 
 
 ## Challenges faced
-Ruby version wouldn't update
-Couldn't clone the student repository
+Had trouble finding the repository that Miguel shared
+Fix: I looked at my email and found it
