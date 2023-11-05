@@ -11,11 +11,6 @@ courses: { csp: {week: 7} }
 
 ### Review Ticket Unit 1 / Week 7
 ## Tasks completed
--Finished creating players 
-
--Finished adding the stats for all the players
 
 
 ## Challenges faced
-Teammate had trouble to connect frontend with backend
-I had trouble commiting changes. Couldn't get any commits for a long period of time so I worked with Patrick.
