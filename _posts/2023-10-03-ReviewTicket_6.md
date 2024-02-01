@@ -10,7 +10,15 @@ courses: { csp: {week: 6} }
 
 ### Review Ticket Unit 1 / Week 6
 ## Tasks completed
-me with my freeform included. I wrote a paragraph on why I took this class and what my biggest challenge was so far.
+
+- I read every single js tests from the dnhs website. 
+
+- I completed DOM, JS, HTML, Data Types, and Errors hacks.
+
+- I gave utterance comments to Eshaan Kumar and Drishya Mody on what they should work on and what they did well.
 
 ## Challenges faced
-Communication on who did what. 
+
+- I had trouble dragging the things from the teacher repository (it didn't work for some reason).
+
+- Talk with my team on who did what for the live review. 
