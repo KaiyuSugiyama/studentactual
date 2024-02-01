@@ -10,6 +10,7 @@ courses: { csp: {week: 6} }
 
 ### Review Ticket Unit 1 / Week 6
 ## Tasks completed
+<<<<<<< HEAD
 
 - I read every single js tests from the dnhs website. 
 
@@ -22,3 +23,12 @@ courses: { csp: {week: 6} }
 - I had trouble dragging the things from the teacher repository (it didn't work for some reason).
 
 - Talk with my team on who did what for the live review. 
+=======
+I read every single js tests from the dnhs website. 
+I completed DOM, JS, HTML, Data Types, and Errors hacks.
+I gave utterance comments to Eshaan Kumar and Drishya Mody on what they should work on and what they did well.
+
+## Challenges faced
+I had trouble dragging the things from the teacher repository (it didn't work for some reason).
+Talk with my team on who did what for the live review. 
+>>>>>>> 5c577b071a730edd62aa322d47fc0f8bc18c9e19

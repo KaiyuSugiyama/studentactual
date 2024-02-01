@@ -10,6 +10,7 @@ Unit2:
   start: 4
   end: 7
 Unit3:
+<<<<<<< HEAD
   title:  Web Application, Data, and N@tM
   description: Student at teams need to build their own Website and Blog their understanding. The Website should include their own interests, but requires use of Python Flask and JavaScript programming.  By the end of the Unit, students will be ready to start many of the technical coding aspects of Web Development, having established a Deployed Website.  In November, the Trimester work will end with a project and student participation in Electives Department "Night at the Museum" (N@tM). 
   start: 8
@@ -44,3 +45,8 @@ Unit9:
   description: Presenting accomplishments for the year by creating a passion project for N@tM.  This project will serve as the year end final exam.
   start: 33
   end: 36
+=======
+  title: Web Application, Data, and N@TM
+  start: 8
+  end: 12
+>>>>>>> 5c577b071a730edd62aa322d47fc0f8bc18c9e19
